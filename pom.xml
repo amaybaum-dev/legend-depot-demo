@@ -78,7 +78,7 @@
         <!-- Legend dependency versions -->
         <legend.engine.version>4.4.5</legend.engine.version>
         <legend.sdlc.version>0.121.1</legend.sdlc.version>
-        <legend.shared.version>0.23.3</legend.shared.version>
+        <legend.shared.version>0.23.5</legend.shared.version>
 
         <!-- Dependency versions -->
         <apache.httpcomponents.client.version>4.5.13</apache.httpcomponents.client.version>
