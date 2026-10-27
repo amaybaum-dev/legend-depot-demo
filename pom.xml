@@ -118,7 +118,7 @@
         <apache.maven.version>3.6.2</apache.maven.version>
         <shrinkwrap-resolver-api.version>3.1.2</shrinkwrap-resolver-api.version>
         <plexus-utils.version>3.1.0</plexus-utils.version>
-        <guava.version>30.1-jre</guava.version>
+        <guava.version>32.0.0-android</guava.version>
 
         <!-- TRACING -->
         <zipkin-reporter.version>2.15.0</zipkin-reporter.version>
